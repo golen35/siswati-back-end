@@ -17,9 +17,12 @@ As unidades codificadas e não codificadas definem os níveis dos fatores em um 
 Por padrão, o Minitab usa unidades codificadas para fazer a análise. As unidades codificadas permitem comparar o tamanho dos coeficientes (em uma escala comum) para determinar qual fator tem o maior impacto na resposta. Se um projeto for analisado em unidades não codificadas (ou naturais), ele poderá não ser mais ortogonal. A ortogonalidade permite estimar os termos do modelo de forma independente, facilitando a análise porque é possível remover termos que não são significativos sem alterar as estimativas dos termos que permanecem no modelo. 
 Este projeto ainda não esta codificado, esperando esperando a primeira Codificação do lider do projeto ou dos membros.
 
-![Golen](git.gif)(https://golen.ncdc.pt)
+![Golen](git.gif)
+
 
 # Apresentação de Portfólio - da Pagina web Golen
 
 minhsas criações e processos com uma abordagem igualmente profissional e criativa usando soluções Angular Developer, Ionic - Build iOS, Android, blockchain
+
+(https://golen.ncdc.pt)
 
